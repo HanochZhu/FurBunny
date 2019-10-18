@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D78B4A4A-E5E7-7E8B-362F-EB16AF6334A0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FurBunnyMultiLayer.shader">
+    <Files>
+      <File FileName="Assets/Scripts/FurBunnyMultiLayer.shader" Line="34" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FurBunny" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FurBunnyMultiLayer.shader" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="09b9ea3d-8470-43ec-8174-ab32b4790806" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
